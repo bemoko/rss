@@ -8,15 +8,21 @@
   <div id="body">
     <h1>RSS plugin test</h1>
     [#if content.rss?? ]
-      <div class="title">${content.rss.feed.title}</div>
+      [#assign feed = content.rss.feed ]
+      ${feed.title}
+      <div class="title">${feed.title}</div>
       <ol>
-        [#list content.rss.feed.items as item]
+        [#list feed.items as item]
           <li class="details">
-            <h2>${item.title}</h2>
-            [#if item.link??]
-              <div><a href="${item.link}">link</a></div>
+            [#if item.title??]
+              <h2>${item.title}</h2>
+              [#if item.link??]
+                <div><a href="${item.link}">link</a></div>
+              [/#if]
+              <div>${item.description?unescaped}</div>
+            [#else]
+              <div>${item.toString()}</div>
             [/#if]
-            <div>${item.description?unescaped}</div>
           </li>
         [/#list]
       </ol>

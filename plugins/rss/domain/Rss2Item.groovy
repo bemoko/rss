@@ -17,7 +17,7 @@
 package rss.domain
 import java.text.SimpleDateFormat
 
-class Rss2Item{
+class Rss2Item {
     private def DATE_FORMAT = new SimpleDateFormat("EEE, dd MMM yyyy HH:mm:ss z")
 
     String title
@@ -31,7 +31,7 @@ class Rss2Item{
     String pubDate
     
     Date getPubDate() { 
-       DATE_FORMAT.parse(pubDate)
+      DATE_FORMAT.parse(pubDate)
     }
     
     def source=[:] //map of url, text

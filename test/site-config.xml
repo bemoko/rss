@@ -4,12 +4,28 @@
  -->
 <site>
   <content-sources>
-    <source name="rss" plugin="rss.Rss2" scope="site">
-      <param name="url">http://blog.bemoko.com/wp-rss2.php</param>
-    </source>
+
+
   </content-sources>
 
   <intents>
-    <intent name="i" type="template" view="test.html"/>
+    <intent name="i" type="template" view="test.html">
+      <!--
+          Version of the plugin written in Groovy
+        -->
+      <source name="rss" plugin="rss.Rss2" scope="site">
+        <param name="url">http://blog.bemoko.com/wp-rss2.php</param>
+      </source>    
+    </intent>
+
+    <intent name="java" type="template" view="test.html">
+      <!--
+          Version of the plugin written in Java
+        -->
+      <source name="rss" plugin="rss.Rss2Java" scope="site">
+        <param name="url">http://blog.bemoko.com/wp-rss2.php</param>
+      </source> 
+    </intent>
+
   </intents>  
 </site>

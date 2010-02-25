@@ -21,9 +21,10 @@
 package rss.domain
 import java.text.SimpleDateFormat
 
-class Rss2Feed{
+class Rss2Feed {
   private def DATE_FORMAT = new SimpleDateFormat("EEE, dd MMM yyyy HH:mm:ss z")
-    
+  private def underlyingFeed
+  
   List items=[]
   
   //mandatory elements

@@ -22,11 +22,11 @@
 package feed.tests
 
 import groovy.util.GroovyTestCase
-import rss.Rss2
+import rss.Rss2DomainAdapter
 
-class Rss2CoreTest extends GroovyTestCase {
+class Rss2DomainAdapterTest extends GroovyTestCase {
     
-    def feedSupply = new Rss2()
+    def feedSupply = new Rss2DomainAdapter()
     def testUrl =  "file:///" 
       + new File(getClass().protectionDomain.codeSource.location.path).parent 
       + "/Rss2CoreTestSample.xml"
