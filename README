@@ -7,3 +7,41 @@ Installation
 -------------------------------------------------------------------------------
 
 * Drop rss/Rss2.groovy in the plugins folder of your site
+
+In your site-config.xml file config the RSS plugin
+
+  <source name="rss" plugin="rss.Rss2" scope="site">
+    <param name="url">http://blog.bemoko.com/wp-rss2.php</param>
+  </source>
+
+Then in your rendering template you can access the feed as below
+
+    [#assign feed = content.rss.feed ]
+    ${feed.title}
+    <div class="title">${feed.title}</div>
+    <ol>
+      [#list feed.items as item]
+        <li class="details">
+          [#if item.title??]
+            <h2>${item.title}</h2>
+            [#if item.link??]
+              <div><a href="${item.link}">link</a></div>
+            [/#if]
+            <div>${item.description?unescaped}</div>
+          [/#if]
+        </li>
+      [/#list]
+    </ol>
+
+Further Information
+-------------------------------------------------------------------------------
+
+This extension comes with an alternative implementation of the plugin in Java.
+This provides a convenient side-by-side comparison with the implementation in
+Groovy
+
+The Java version of the plugin can be used by configuring the plugin as follows:
+
+  <source name="rss" plugin="rss.Rss2Java" scope="site">
+    <param name="url">http://blog.bemoko.com/wp-rss2.php</param>
+  </source>
