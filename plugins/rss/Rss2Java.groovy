@@ -33,14 +33,14 @@ import com.bemoko.live.platform.mwc.plugins.AbstractPlugin;
  */
 public class Rss2Java extends AbstractPlugin {
   private String url;
-
+  
   public void initialise(Map p) {
     url = (String) p.get("url");
   }
-
+  
   public Object getFeed() {
     GPathResult feedResponseRoot;
-
+    
     try {
       feedResponseRoot = new XmlSlurper(false, false).parse(url);
     } catch (Exception e) {
@@ -51,7 +51,6 @@ public class Rss2Java extends AbstractPlugin {
       e.printStackTrace();
       return null;
     }
-    return new Rss2ChannelAdapter((GPathResult) feedResponseRoot
-        .getProperty("channel"));
+    return new Rss2ChannelAdapter((GPathResult) feedResponseRoot.getProperty("channel"));
   }
 }

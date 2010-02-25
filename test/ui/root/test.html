@@ -9,7 +9,6 @@
     <h1>RSS plugin test</h1>
     [#if content.rss?? ]
       [#assign feed = content.rss.feed ]
-      ${feed.title}
       <div class="title">${feed.title}</div>
       <ol>
         [#list feed.items as item]

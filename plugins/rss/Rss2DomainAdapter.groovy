@@ -13,9 +13,9 @@
  * 
  * Copyright @2010 bemoko 
  */
- 
+
 package rss
- 
+
 import com.bemoko.live.platform.mwc.plugins.AbstractPlugin
 import rss.domain.Rss2Item
 import rss.domain.Rss2Feed
@@ -26,14 +26,14 @@ import rss.domain.Rss2Feed
  */ 
 class Rss2DomainAdapter extends AbstractPlugin {
   def url
- 
+  
   void initialise(Map p) {
     url = p.url
   }
   
   def Rss2Feed getFeed() {
     def feedResponseRoot
-        
+    
     try {
       feedResponseRoot = new XmlSlurper(false,false).parse(url)
     } catch (Exception e){
@@ -45,66 +45,66 @@ class Rss2DomainAdapter extends AbstractPlugin {
       return null
     }
     def feedResponse = feedResponseRoot.channel
- 
+    
     def feed=new Rss2Feed (
-      title : feedResponse.title,
-      link : feedResponse.link,
-      description : feedResponse.description,
-      language : feedResponse.language,
-      copyright : feedResponse.copyright,
-      managingEditor : feedResponse.managingEditor,
-      webMaster : feedResponse.webMaster,
-      pubDate : feedResponse.pubDate,
-      lastBuildDate : feedResponse.lastBuildDate,
-      generator : feedResponse.generator,
-      docs : feedResponse.docs,
-      cloud : [
+        title : feedResponse.title,
+        link : feedResponse.link,
+        description : feedResponse.description,
+        language : feedResponse.language,
+        copyright : feedResponse.copyright,
+        managingEditor : feedResponse.managingEditor,
+        webMaster : feedResponse.webMaster,
+        pubDate : feedResponse.pubDate,
+        lastBuildDate : feedResponse.lastBuildDate,
+        generator : feedResponse.generator,
+        docs : feedResponse.docs,
+        cloud : [
         'domain' : feedResponse.cloud.@domain,
         'port' : feedResponse.cloud.@port,
         'path' : feedResponse.cloud.@path,
         'registerProcedure':feedResponse.cloud.@registerProcedure,
         'protocol' :feedResponse.cloud.@protocol
-      ],
-      ttl :feedResponse.ttl,
-      image : [
+        ],
+        ttl :feedResponse.ttl,
+        image : [
         'url' :feedResponse.image.url,
         'title' :feedResponse.image.title,
         'link' :feedResponse.image.link,
         'width' :feedResponse.image.width,
         'height' :feedResponse.image.height
-      ],
-      rating:feedResponse.rating,
-      textInput : [
+        ],
+        rating:feedResponse.rating,
+        textInput : [
         'title' :feedResponse.textInput.title,
         'description':feedResponse.textInput.description,
         'name' :feedResponse.textInput.name,
         'link' :feedResponse.textInput.link
-      ],
-      skipHours : feedResponse.skipHours.list(),
-      skipDays : feedResponse.skipDays.list()
-    )
- 
+        ],
+        skipHours : feedResponse.skipHours.list(),
+        skipDays : feedResponse.skipDays.list()
+        )
+    
     feedResponse.item.each {
       feed.items << new Rss2Item(
-        title : it.title,
-        link : it.link,
-        description : it.description,
-        author : it.author,
-        categories : it.category.list(),
-        comments : it.comments,
-        enclosure : [
-          'url' :feedResponse.enclosure.@url,
-          'length' :feedResponse.enclosure.@length,
-          'type' :feedResponse.type.@type
-        ],
-        guid :it.guid,
-        pubDate :it.pubDate,
-        source : [
-          'url' :feedResponse.source.@url,
-          'text' :feedResponse.source
-        ]
-       )
-     }
+      title : it.title,
+      link : it.link,
+      description : it.description,
+      author : it.author,
+      categories : it.category.list(),
+      comments : it.comments,
+      enclosure : [
+      'url' :feedResponse.enclosure.@url,
+      'length' :feedResponse.enclosure.@length,
+      'type' :feedResponse.type.@type
+      ],
+      guid :it.guid,
+      pubDate :it.pubDate,
+      source : [
+      'url' :feedResponse.source.@url,
+      'text' :feedResponse.source
+      ]
+      )
+    }
     return feed
   }
 }

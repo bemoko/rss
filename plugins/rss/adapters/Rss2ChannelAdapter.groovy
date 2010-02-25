@@ -26,15 +26,20 @@ package rss.adapters;
 
 import groovy.util.slurpersupport.GPathResult;
 
-import java.util.ArrayList;
-import java.util.List;
 
 public class Rss2ChannelAdapter extends GPathResultAdapter {
-
+  private GPathResult result;
+  
   public Rss2ChannelAdapter(GPathResult result) {
     super(result);
+    this.result = result;
   }
-
+  
+  /**
+   * RSS items are retrieved from the list() method on the "item" property
+   * 
+   * @return
+   */
   public Object getItems() {
     List<Object> items = new ArrayList<Object>();
     for (Object o : ((GPathResult) get("item")).list()) {
