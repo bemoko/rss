@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  >
+
+<channel>
+  <title>bemoko's mobile web</title>
+  <atom:link href="http://blog.bemoko.com/feed/" rel="self" type="application/rss+xml" />
+  <link>http://blog.bemoko.com</link>
+  <description>in safe hands</description>
+  <lastBuildDate>Tue, 16 Feb 2010 08:11:36 +0000</lastBuildDate>
+
+  <generator>http://wordpress.org/?v=2.9</generator>
+  <language>en</language>
+  <sy:updatePeriod>hourly</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+      <item>
+    <title>Bemoko introduces the mobile friendly email marketing experience</title>
+
+    <link>http://blog.bemoko.com/2010/01/20/bemoko-introduces-the-mobile-friendly-email-marketing-experience/</link>
+    <comments>http://blog.bemoko.com/2010/01/20/bemoko-introduces-the-mobile-friendly-email-marketing-experience/#comments</comments>
+    <pubDate>Wed, 20 Jan 2010 12:00:39 +0000</pubDate>
+    <dc:creator>bemoko</dc:creator>
+        <category><![CDATA[public website news]]></category>
+
+    <guid isPermaLink="false">http://blog.bemoko.com/?p=858</guid>
+
+    <description><![CDATA[RESS ANNOUNCEMENT: Bemoko introduces the mobile friendly email marketing experience]]></description>
+      <content:encoded><![CDATA[<h3>Bemoko introduces the mobile friendly email marketing experience</h3>
+<ul>
+<li><em><strong>Access 25% more recipients than the competition</strong></em></li>
+<li><em><strong>Integrate with existing content to create a truly inclusive mobile experience</strong></em></li>
+</ul>
+<p><strong>January 20th &#8211; London/Mobile World Congress, Barcelona: </strong>bemoko today announced the availability of the bemoko®Live mobile friendly email solution, which delivers perfectly optimised mobile marketing emails to any mobile handset.  Marketing teams can now use bemokoLive to create mailers capable of truly representing a brand on the mobile phone.</p>
+<p>Mat Diss, Founder, bemoko said: &#8220;A quarter of people today will view email marketing messages on their mobile and they are almost always impossible to read. Even when you click on the &#8216;Can&#8217;t read this?&#8217; link you still get a page formatted for a PC screen! This is a huge missed opportunity and terrible brand building to customers.&#8221;</p>
+<p>bemoko provides easy to use software that integrates and enhances existing web infrastructure enabling developers to deliver web content, e-mailers and applications to multi channel media devices. bemokoLive lets marketing departments automatically bring the website and brand to customers on their mobile phones in the best form possible.</p>
+<p>A bemoko enhanced e-mail delivered to a PC needs no changes to display across a large screen on click through; for iPhone, Blackberry, wide screen phones and standard phones the mailer is automatically optimised to suit each specific handset. Banners are optimised to fit on smaller screens, whilst larger images and unnecessary information is removed to create a clear, easy to read mailer without the need to zoom in or search the mail for key brand messaging.</p>
+<p>&#8220;This marks the end of text only, slow, poorly rendered and annoying marketing emails which invariably end up in the trash folder, unread&#8221; said Diss. &#8220;With bemokoLive you can create a interactive mobile campaign that incorporates email and a mobile Internet site which will deliver the best user experience on every phone. This extends a campaign&#8217;s reach by 25%, and also delivers a host of customer analytics tools that enable a deeper relationship between the customer and the brand.&#8221;</p>
+<p><strong>-ends-</strong></p>
+<p><em><strong>About bemoko:</strong></em></p>
+<p>bemoko (www.bemoko.com) is the leading innovator in flexible multi-channel web solutions.  Bemoko provide an easy to use single platform software product that integrates and enhances existing web infrastructure enabling developers to deliver web content and applications to multi channel media devices simply, quickly and without the need for additional training: <a href="http://www.bemoko.com">www.bemoko.com</a></p>
+<p>For further information please contact:</p>
+<table>
+<tbody>
+<tr>
+<td>Chris Bignell</td>
+<td>XL Communications Ltd</td>
+</tr>
+<tr>
+<td>Tel:</td>
+<td>07834 020460</td>
+</tr>
+<tr>
+<td>Email:</td>
+<td><a href="mailto:chris@xl-comms.com">chris@xl-comms.com</a></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+      <wfw:commentRss>http://blog.bemoko.com/2010/01/20/bemoko-introduces-the-mobile-friendly-email-marketing-experience/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+    </item>
+    <item>
+    <title>Effective email campaigns for mobile with bemokoLive v1.2.5</title>
+
+    <link>http://blog.bemoko.com/2010/01/06/bemokolive-v1-2-5-and-mobile-email-campaigns/</link>
+    <comments>http://blog.bemoko.com/2010/01/06/bemokolive-v1-2-5-and-mobile-email-campaigns/#comments</comments>
+    <pubDate>Wed, 06 Jan 2010 15:32:26 +0000</pubDate>
+    <dc:creator>Ian Homer</dc:creator>
+        <category><![CDATA[mobile]]></category>
+    <category><![CDATA[email]]></category>
+    <category><![CDATA[email campaigns]]></category>
+
+    <category><![CDATA[mobile email]]></category>
+    <category><![CDATA[mobile web]]></category>
+
+    <guid isPermaLink="false">http://blog.bemoko.com/?p=719</guid>
+    <description><![CDATA[I&#8217;m really pleased to announce that v1.2.5 of bemokoLive is now released.  This version takes a step forward in the management of mobile campaigns with the provision of sub-sites and content rules.   We&#8217;ve also put together a great getting started tutorial you can download from our wiki.
+Do you regularly send email newsletters [...]]]></description>
+      <content:encoded><![CDATA[<p>I&#8217;m really pleased to announce that v1.2.5 of bemokoLive is now released.  This version takes a step forward in the management of mobile campaigns with the provision of <b>sub-sites</b> and <b>content rules</b>.   We&#8217;ve also put together a great <b>getting started tutorial</b> you can <a href="http://bemoko.com/wiki/Main_Page">download from our wiki</a>.</p>
+<p>Do you regularly send email newsletters to your customers?  You might do this once a week, once a month or you might even manage email campaigns for many people.  Now these campaigns most of the time may follow the the same format &#8211; perhaps it&#8217;s announcing latest books available or sharing information on your latest promotions &#8211; but you may also find that often you want to add something special to each newsletter, breaking out of the mold of the same old template.  You might also be finding that perhaps 20% of people who receive your emails are accessing from a mobile phone.</p>
+<p>bemokoLive, as always, makes it easy to take your message to mobile phone and engage with this growing number of people accessing from their phone, but with the release of v1.2.5 we&#8217;ve made it even easier to take 100% control of your email campaigns.  With bemokoLive you can create a single site which defines your look and feel, as well as common functions such as getting content from your CMS.  This site allows you to rapidly put together each months newsletter.  <b>sub-sites</b> in v1.2.5 take this to next level by allowing you to customise each newsletter &#8211; by making as few or as many changes you need.  Perhaps you simply want to include a different seasonal logo or even deliver the message with a whole new look &#038; feel. </p>
+<p><b>Context Rules</b> is a great new feature that helps users of your site as well as site developers.  Site users can now readily access either the PC version of the site or an optimised mobile version as they desire so that they can get the experience they want.  Site developers can also use <b>context rules</b> to quickly test what the site looks like on different devices.</p>
+<p>There&#8217;s the usual handful of other useful updates with this release &#8211; see the <a href="http://bemoko.com/wiki/Release_Notes_1.2.5">release notes</a> for more details.  And if you&#8217;re new to bemoko, please <a href="http://bemoko.com/bemoko/i/page/contact-us">get in touch</a> and we&#8217;ll help take you web sites to mobile (and other digital channels).</p>
+]]></content:encoded>
+      <wfw:commentRss>http://blog.bemoko.com/2010/01/06/bemokolive-v1-2-5-and-mobile-email-campaigns/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+
+    </item>
+    <item>
+    <title>Doha Tribeca Film Festival Mobile Website featured in Mobile Entertainment News</title>
+    <link>http://blog.bemoko.com/2009/10/29/tribeca-film-festival/</link>
+    <comments>http://blog.bemoko.com/2009/10/29/tribeca-film-festival/#comments</comments>
+    <pubDate>Thu, 29 Oct 2009 18:46:28 +0000</pubDate>
+    <dc:creator>Ian Walsh</dc:creator>
+
+        <category><![CDATA[mobile web]]></category>
+    <category><![CDATA[press]]></category>
+    <category><![CDATA[customers]]></category>
+
+    <guid isPermaLink="false">http://blog.bemoko.com/?p=671</guid>
+    <description><![CDATA[bemoko today launched the mobile website for the 2009 Doha Tribeca Film Festival and it&#8217;s been featured online in Mobile Entertainment.
+Have a read of the article here and take a look at the site for yourselves at dtff.bemoko.com 
+
+]]></description>
+      <content:encoded><![CDATA[<p>bemoko today launched the mobile website for the 2009 Doha Tribeca Film Festival and it&#8217;s been featured online in Mobile Entertainment.</p>
+<p>Have a read of the article <a href="http://www.mobile-ent.biz/news/34859/bemoko-builds-Tribeca-Film-Festival-mobile-site">here</a> and take a look at the site for yourselves at <a href="http://dtff.bemoko.com">dtff.bemoko.com</a> <a href="http://www.mobile-ent.biz/news/34859/bemoko-builds-Tribeca-Film-Festival-mobile-site"><br />
+</a></p>
+]]></content:encoded>
+      <wfw:commentRss>http://blog.bemoko.com/2009/10/29/tribeca-film-festival/feed/</wfw:commentRss>
+
+    <slash:comments>0</slash:comments>
+    </item>
+    <item>
+    <title>Bemoko brings the Doha Tribeca Film Festival to mobile phones</title>
+    <link>http://blog.bemoko.com/2009/10/29/bemoko-brings-the-doha-tribeca-film-festival-to-mobile-phones/</link>
+    <comments>http://blog.bemoko.com/2009/10/29/bemoko-brings-the-doha-tribeca-film-festival-to-mobile-phones/#comments</comments>
+    <pubDate>Thu, 29 Oct 2009 12:50:27 +0000</pubDate>
+
+    <dc:creator>bemoko</dc:creator>
+        <category><![CDATA[public website news]]></category>
+
+    <guid isPermaLink="false">http://blog.bemoko.com/?p=842</guid>
+    <description><![CDATA[Bemoko brings the Doha Tribeca Film Festival to mobile phones]]></description>
+      <content:encoded><![CDATA[<h3>Bemoko brings the Doha Tribeca Film Festival to mobile phones</h3>
+<ul>
+<li><em><strong>bemoko creates the Doha Tribeca Film Festival mobile website, delivering festival content optimised to every mobile phone</strong></em></li>
+<li><em><strong>Latest successful implementation of the bemokoLive platform for quick and easy mobile website development</strong></em></li>
+</ul>
+<p><strong>29th October 2009: </strong>UK-based mobile web experts, bemoko Ltd, have used the bemokoLive mobile development platform to create the mobile website for this year&#8217;s Doha Tribeca Film Festival (DTFF) which begins today.</p>
+<p>Optimised to work with any mobile phone, the Doha Tribeca Film Festival mobile website will be live for the duration of the event and for 12 months afterwards.  Mat Diss, founder of bemoko said: &#8220;From the mobile website you can watch trailers for films on your phone, find out where and when films are being screened and create your own personalised festival agenda.  Content is taken from the DTFF blog, twitter stream and flickr feeds, enabling visitors to keep up to date with all the latest news and reviews, wherever they are.&#8221;</p>
+<p>The site was created using bemokoLive, a unique development platform that lets web designers create mobile sites quickly and easily using standard XHTML.  Because bemokoLive recognises the characteristics of a phone visiting a web site, the site will display on any mobile phone regardless of operating system or screen size.  This removes the need to write mobile sites for each type of phone, meaning mobile websites can be live for a fraction of the time and cost of traditional methods of creating sites for mobile.</p>
+<p>As VIP guests at DTFF will be receiving iPod Touch devices which link to the mobile website, bemoko has used the powerful features of the bemokoLive platform to easily create a feature-rich version of the mobile site for iPhone and iPod touch users without having to write the entire site again for the iPhone.  Special features for the iPhone version of the site include &#8216;Apple style&#8217; sliding page transitions, film trailer carousels  and touch sensitive maps with pinch zoom and touch scrolling.</p>
+<p>DTFF Executive Director Amanda Palmer said, &#8220;The website is a great tool for visitors to take part in cultural exchanges of ideas and to engage with groundbreaking filmmakers. To be able to do this from any mobile phone is a huge advantage to our many visitors who will come from all over the World.&#8221;</p>
+<p>Mat Diss continued: &#8220;The Doha Tribeca Film Festival has recognised the power of the mobile Internet as a tool that should be accessible to everyone, regardless of which make or model of phone they have.  bemokoLive means that visitors can experience a multimedia experience on their phone that compliments the event.&#8221;</p>
+<p><strong>-ends-</strong></p>
+<p><em><strong>About Doha Tribeca Film Festival</strong></em></p>
+<p>From October 29 to November 1, 2009, filmmakers and shakers from around the world will be welcomed to the stunning festival hub, at the Museum of Islamic Art (MIA). In this launch year, DTFF is curating a program slate of 30 feature films, highlighting internationally acclaimed Arab films, plus the best of Hollywood, Bollywood, family films, documentaries, animation and world cinema.</p>
+<p>DTFF is a unique partnership between Qatar Museum Authority (QMA) and New York&#8217;s Tribeca Film Festival. On QMA&#8217;s side is Chair, Her Excellency Sheikha Al Mayassa bint Hamad bin Khalifa Al Thani, QMA&#8217;s CEO Abdulla Al Najjar and DTFF Executive Director Amanda Palmer. On Tribeca&#8217;s side, are the festival founders, acclaimed Hollywood producer Jane Rosenthal, entrepreneur Craig Hatkoff, and actor, Robert De Niro.</p>
+<p>Visit <a href="http://dtff.bemoko.com">dtff.bemoko.com</a></p>
+<p><em><strong>About bemoko:</strong></em></p>
+<p>bemoko (www.bemoko.com) is the leading innovator in flexible mobile web solutions providing a comprehensive platform for delivering compelling mobile web sites. It provides a multi-device, multi-channel delivery platform for mobile content, designed with flexibility and speed of deployment in mind. For more information: <a href="http://www.bemoko.com">www.bemoko.com</a></p>
+<p>For further information please contact:</p>
+<table>
+<tbody>
+<tr>
+<td>Chris Bignell</td>
+<td>XL Communications Ltd</td>
+</tr>
+<tr>
+<td>Tel:</td>
+<td>07834 020460</td>
+</tr>
+<tr>
+<td>Email:</td>
+<td><a href="mailto:chris@xl-comms.com">chris@xl-comms.com</a></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+      <wfw:commentRss>http://blog.bemoko.com/2009/10/29/bemoko-brings-the-doha-tribeca-film-festival-to-mobile-phones/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+
+    </item>
+    <item>
+    <title>1st &#8211; The Exchange partners with bemoko to deliver mobile web to IFAs</title>
+    <link>http://blog.bemoko.com/2009/09/29/1st-the-exchange-partners-with-bemoko-to-deliver-mobile-web-to-ifas/</link>
+    <comments>http://blog.bemoko.com/2009/09/29/1st-the-exchange-partners-with-bemoko-to-deliver-mobile-web-to-ifas/#comments</comments>
+    <pubDate>Tue, 29 Sep 2009 12:00:31 +0000</pubDate>
+
+    <dc:creator>bemoko</dc:creator>
+        <category><![CDATA[public website news]]></category>
+
+    <guid isPermaLink="false">http://blog.bemoko.com/?p=827</guid>
+    <description><![CDATA[ABOUT THE OPPORTUNITY
+1st &#8211; The Exchange is a market leading provider of technology solutions to the financial services market. The company provides an integrated suite of technology solutions, software and consultancy to the financial services industry, to help support the key stages of a distributor&#8217;s business process.
+The Exchange is the largest provider of online comparative [...]]]></description>
+      <content:encoded><![CDATA[<h3>ABOUT THE OPPORTUNITY</h3>
+<p>1st &#8211; The Exchange is a market leading provider of technology solutions to the financial services market. The company provides an integrated suite of technology solutions, software and consultancy to the financial services industry, to help support the key stages of a distributor&#8217;s business process.</p>
+<p>The Exchange is the largest provider of online comparative quotations and electronic new business applications in the UK financial services portal market. Its main product is Exweb, which is the UK&#8217;s leading intermediary trading platform in the financial services market, used by approximately 27,000 registered users within authorised advisory firms. It provides online information and transaction services, with 185 million client illustrations processed to date over the service since January 2008.</p>
+<h3>THE CHALLENGE</h3>
+<p>As a membership organisation, it is critical to The Exchange that it provides up to date and relevant services for its users in an effective and easy to use manner.</p>
+<p>Having built an intuitive and successful web portal, Exweb, The Exchange was looking to provide access to a mobile website to its users. This was important because when an IFA is with a client, they will not necessarily have access to the web portal. They may, for example, be at a client&#8217;s home. The capability to provide either an indicative or full quotation during a meeting enables the IFAs to deliver a quicker and more effective level of service to their clients.</p>
+<p>Traditionally it has been difficult to create mobile websites that can be accessed by all devices. There is no single standard operating system for mobile phones and there are a variety of different browsers embedded within mobile handsets.</p>
+<p>To further complicate matters, mobile phones have different screen sizes, meaning that creating one mobile website that can be accessed by all mobile devices has been a challenge. Typically companies have either gone to the expense of creating multiple versions of the same site for different handsets, which is a labour and cost intensive exercise. The alternative has been to create a generic mobile website that may not fit a mobile screen and can include broken links or content that cannot be properly displayed on the phone. This delivers an extremely poor brand representation.</p>
+<p>Initially, The Exchange decided to create a mobile web solution for certain Nokia and Blackberry devices, in order to test how subscribers reacted to having a mobile website to use and to understand more about usage patterns. Once this trial had been concluded successfully, the challenge for The Exchange was to roll out a fully featured mobile website that could be easily accessed from all mobile devices to support members in the Annuities market.</p>
+<h3>THE SOLUTION</h3>
+<p>Having evaluated a number of partners, The Exchange decided to team up with bemoko to roll out a mobile website to their users. bemoko provides consultancy and software solutions that enable organisations to quickly and effectively create mobile internet solutions for all mobile phones.</p>
+<p>Uniquely, bemoko&#8217;s software solutions allows almost every mobile handset that is internet enabled to access a mobile website and see the content as if it has been designed exclusively for that handset. bemoko&#8217;s solution recognises which handset is visiting a mobile website and delivers a fully optimised version of the site to that particular handset.</p>
+<p>If the handset supports certain technologies (for example Flash) the solution will deliver that particular content, however, if it does not, the content will not be delivered and instead the page will automatically be configured to be suitable to the size of screen, operating system and mobile browser embedded into the handset. The result is that, whatever handset is accessing the site, the mobile web pages fit the screen and do not display content that cannot be viewed, removing the broken links and poorly fitting pages that can be associated with the mobile web experience.</p>
+<p>The Exchange had a series of specific criteria to fulfil: it needed to enable users to input important information such as a client&#8217;s age and requirements easily; it also needed to deliver usable results to IFAs quickly and reliably. Most importantly the site needed to be accessible from any mobile phone.</p>
+<p>bemoko worked with The Exchange to develop a bespoke solution that delivered an effective mobile website within The Exchange&#8217;s criteria. Rather than suggesting a solution that would have required a major technology upheaval for The Exchange, bemoko was flexible enough to develop a solution that suited the core technology environment within which The Exchange operated its services.</p>
+<p>Both the bemoko team and The Exchange technical staff collaborated to ensure that the solution was effective and deliverable. Considerable support was also provided from Microsoft, since The Exchange works in a .NET framework.</p>
+<h3>OUTCOMES</h3>
+<p>The collaboration has provided a highly effective mobile website that can be clearly and easily displayed on all but the very oldest mobile phones.</p>
+<p>The solution has been launched and is now being used by IFAs across the UK, providing them with another flexible and relevant service from The Exchange and allowing The Exchange to demonstrate its market innovation and thought leadership in a new area.</p>
+<p>The Exchange is now considering the implementation of the second phase of the mobile platform to deliver additional services to its customers.</p>
+<h3>CONCLUSION</h3>
+<p>The mobile environment has traditionally been seen as one that has been too expensive or too difficult to deliver a meaningful service. The challenge of either having to build multiple micro sites for different devices at significant cost, or relying upon automatically re-rendering content has meant that many organisations have avoided creating mobile web solutions.</p>
+<p>Yet the ubiquity of the mobile phone, along with the increasing number of people who are using data services on mobile means that it is difficult for organisations to ignore the mobile opportunity any more. By recognising the value that a mobile solution could provide to its members, The Exchange has been a pioneer.</p>
+<p>By partnering with bemoko, The Exchange was able to offer a truly personalised service to its customers at a fraction of the cost of creating mobile sites for each relevant device without compromising usability to the end user.</p>
+<h3>About 1st &#8211; The Exchange</h3>
+<p>1st &#8211; The Exchange is a market leading provider of technology solutions to the financial services market.</p>
+<p>The Company provides an integrated suite of technology solutions, software and consultancy to the financial services industry, which helps support the key stages of an intermediary&#8217;s business process, whatever its size. In doing so, this enables users to service their clients more efficiently and profitability, whilst meeting regulatory demands, reducing costs and maximising profits.</p>
+<p>The Exchange&#8217;s Exweb is the largest provider of online comparative quotations and electronic new business applications in the UK financial services portal market with over 27,000 users. It provides online information and transaction services, with 125 million client illustrations processed over the service in 2007.</p>
+<p>1st develops, markets and supports software delivering financial planning, client management and full back office administration to financial intermediaries. 1st&#8217;s &#8216;Adviser Office&#8217; software, is the market-leading client management solution used by more than 1,600 Adviser firms offering wealth management and financial advice, both Multi-tied and Independent. Based on Microsoft SQL Server and .net Technology, Adviser Office and Adviser Evolution link with over 60 partners, including product providers, portals and fund supermarkets to aggregate client data and avoid any data re-keying.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://blog.bemoko.com/2009/09/29/1st-the-exchange-partners-with-bemoko-to-deliver-mobile-web-to-ifas/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+
+    </item>
+    <item>
+    <title>bemokoLive.NET released</title>
+    <link>http://blog.bemoko.com/2009/09/22/bemokolive-net-released/</link>
+    <comments>http://blog.bemoko.com/2009/09/22/bemokolive-net-released/#comments</comments>
+    <pubDate>Tue, 22 Sep 2009 12:00:49 +0000</pubDate>
+    <dc:creator>bemoko</dc:creator>
+
+        <category><![CDATA[public website news]]></category>
+
+    <guid isPermaLink="false">http://blog.bemoko.com/?p=844</guid>
+    <description><![CDATA[PRESS ANNOUNCEMENT: bemokoLive.NET released]]></description>
+      <content:encoded><![CDATA[<h3>bemokoLive.NET: simple, effective mobile web for Microsoft environments</h3>
+<p>UK-based mobile web experts, bemoko, today launched bemoko®Live.NET edition, the latest version of the company&#8217;s powerful and flexible mobile web delivery platform for content and services.</p>
+<p>bemokoLive.NET brings the benefits of bemoko&#8217;s mobile platform to the .NET environment through integration into Microsoft&#8217;s ASP.NET MVC framework. Developers can now quickly develop one single mobile site to deliver the best user experience over a wider range of handsets and devices.</p>
+<p>bemokoLive recognises a user&#8217;s mobile device,  repurposes and automatically delivers the right mobile content to the device being used. This ensures that any mobile device visiting a web site sees a highly professional online presence with an effective browsing experience, removing the issues of unreadable pages or non displaying images or video.</p>
+<p><strong>With bemokoLive.Net:</strong></p>
+<ul>
+<li>There is no need to create specific sites for different mobile devices. Organisations can use their current web content to create sites using common components that deliver an effective web experience to any mobile device.</li>
+<li>With bemokoLive.Net content is automatically optimised as it is delivered to devices, reducing page download times and ensuring a fast enjoyable user experience.</li>
+<li>Mobile web visitors can upload their own content &#8211; pictures, status updates, videos &#8211; from mobile devices to web sites including Facebook, Twitter, MySpace, and other social networks.</li>
+</ul>
+<p>Mat Diss, co-founder of bemoko said: &#8220;bemokoLive.NET has been specially developed to make it easier for designers working in Microsoft environments to deliver compelling mobile web sites. Developers create mobile sites in the same ASP.NET environment that they use to deliver non mobile sites &#8211; there is no need for additional training or to learn a new language.&#8221;</p>
+<p>&#8220;Through bemokoLive.NET, organisations using the Microsoft environment can use their current team to create mobile sites that deliver relevant content to any mobile device at a fraction of the cost and time to market of building specific sites for specific mobile devices.&#8221;</p>
+<p><strong>-ends-</strong></p>
+<p><em><strong>About bemoko:</strong></em></p>
+<p>bemoko (www.bemoko.com) is the leading innovator in flexible mobile web solutions providing a comprehensive platform for delivering compelling mobile web sites. It provides a multi-device, multi-channel delivery platform for mobile content, designed with flexibility and speed of deployment in mind. For more information: <a href="http://www.bemoko.com">www.bemoko.com</a></p>
+<p>For further information please contact:</p>
+<table>
+<tbody>
+<tr>
+<td>Chris Bignell</td>
+<td>XL Communications Ltd</td>
+</tr>
+<tr>
+<td>Tel:</td>
+<td>07834 020460</td>
+</tr>
+<tr>
+<td>Email:</td>
+<td><a href="mailto:chris@xl-comms.com">chris@xl-comms.com</a></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+      <wfw:commentRss>http://blog.bemoko.com/2009/09/22/bemokolive-net-released/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+    </item>
+
+    <item>
+    <title>Cool &#8230; iPhone handles the HTML5 onstorage event handler</title>
+    <link>http://blog.bemoko.com/2009/09/16/cool-iphone-handles-the-html5-onstorage-event-handler/</link>
+    <comments>http://blog.bemoko.com/2009/09/16/cool-iphone-handles-the-html5-onstorage-event-handler/#comments</comments>
+    <pubDate>Wed, 16 Sep 2009 17:08:05 +0000</pubDate>
+    <dc:creator>Ian Homer</dc:creator>
+
+        <category><![CDATA[mobile]]></category>
+    <category><![CDATA[mobile web]]></category>
+    <category><![CDATA[HTML5]]></category>
+    <category><![CDATA[iphone]]></category>
+    <category><![CDATA[javascript]]></category>
+    <category><![CDATA[localStorage]]></category>
+    <category><![CDATA[offline]]></category>
+    <category><![CDATA[onstorage]]></category>
+
+    <guid isPermaLink="false">http://blog.bemoko.com/?p=651</guid>
+    <description><![CDATA[&#8230; or in other words we can readily synchronise local browser storage with back-send server persistent storage.  This is one of the fundamentals of compelling off line web applications.
+So a little background.  You may know that you can store data in your local browser database with javascript like &#8230;
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+function store&#40;&#41; &#123;
+  if [...]]]></description>
+      <content:encoded><![CDATA[<p>&#8230; or in other words we can readily synchronise local browser storage with back-send server persistent storage.  This is one of the fundamentals of compelling off line web applications.</p>
+<p>So a little background.  You may know that you can store data in your local browser database with javascript like &#8230;</p>
+
+<div class="wp_syntax"><table><tr><td class="line_numbers"><pre>1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+</pre></td><td class="code"><pre class="javascript" style="font-family:monospace;"><span style="color: #003366; font-weight: bold;">function</span> store<span style="color: #009900;">&#40;</span><span style="color: #009900;">&#41;</span> <span style="color: #009900;">&#123;</span>
+  <span style="color: #000066; font-weight: bold;">if</span> <span style="color: #009900;">&#40;</span>window.<span style="color: #660066;">localStorage</span><span style="color: #009900;">&#41;</span> <span style="color: #009900;">&#123;</span>
+    <span style="color: #003366; font-weight: bold;">var</span> count<span style="color: #339933;">=</span>window.<span style="color: #660066;">localStorage</span>.<span style="color: #660066;">getItem</span><span style="color: #009900;">&#40;</span><span style="color: #3366CC;">&quot;count&quot;</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span>
+    <span style="color: #000066; font-weight: bold;">if</span> <span style="color: #009900;">&#40;</span><span style="color: #339933;">!</span>count<span style="color: #009900;">&#41;</span> <span style="color: #009900;">&#123;</span>
+      count<span style="color: #339933;">=</span><span style="color: #CC0000;">0</span><span style="color: #339933;">;</span>
+    <span style="color: #009900;">&#125;</span>
+    count<span style="color: #339933;">++</span>
+    window.<span style="color: #660066;">localStorage</span>.<span style="color: #660066;">setItem</span><span style="color: #009900;">&#40;</span><span style="color: #3366CC;">&quot;count&quot;</span><span style="color: #339933;">,</span>count<span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span>
+  <span style="color: #009900;">&#125;</span>
+<span style="color: #009900;">&#125;</span>
+window.<span style="color: #000066;">onload</span> <span style="color: #339933;">=</span> <span style="color: #003366; font-weight: bold;">function</span><span style="color: #009900;">&#40;</span><span style="color: #009900;">&#41;</span> <span style="color: #009900;">&#123;</span>
+  store<span style="color: #009900;">&#40;</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span>
+<span style="color: #009900;">&#125;</span></pre></td></tr></table></div>
+
+<p>and you can even see it in action <a href="http://localhost:8080/live/test/i/suite/javascript-offline/test/store">here</a>, if you got a decent browser such as the latest iPhone 3, Firefox 3.5, Safari 4.</p>
+<p>But this ain&#8217;t much good if you can&#8217;t get this data back to the server to do something useful with it, e.g. share with friends, share with your other devices, keep a backup, send a message &#8230; I could go on.</p>
+<p>So what we really need is a way to easily listen out to storage events and deal with it in one place.  Yep, we could create our own Javascript framework to do this and handle getters and setters, but that sounds nasty to me.</p>
+<p>Instead we can know use the <a href="http://dev.w3.org/html5/spec/Overview.html#handler-window-onstorage">onstorage</a> attribute on the HTML body tag to hook into a function that will handle all of these call backs based on local stored data.</p>
+
+<div class="wp_syntax"><table><tr><td class="line_numbers"><pre>1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+</pre></td><td class="code"><pre class="javascript" style="font-family:monospace;"><span style="color: #003366; font-weight: bold;">function</span> store<span style="color: #009900;">&#40;</span><span style="color: #009900;">&#41;</span> <span style="color: #009900;">&#123;</span>
+  <span style="color: #000066; font-weight: bold;">if</span> <span style="color: #009900;">&#40;</span>window.<span style="color: #660066;">localStorage</span><span style="color: #009900;">&#41;</span> <span style="color: #009900;">&#123;</span>
+    <span style="color: #003366; font-weight: bold;">var</span> count<span style="color: #339933;">=</span>window.<span style="color: #660066;">localStorage</span>.<span style="color: #660066;">getItem</span><span style="color: #009900;">&#40;</span><span style="color: #3366CC;">&quot;count&quot;</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span>
+    <span style="color: #000066; font-weight: bold;">if</span> <span style="color: #009900;">&#40;</span><span style="color: #339933;">!</span>count<span style="color: #009900;">&#41;</span> <span style="color: #009900;">&#123;</span>
+      count<span style="color: #339933;">=</span><span style="color: #CC0000;">0</span><span style="color: #339933;">;</span>
+    <span style="color: #009900;">&#125;</span>
+    count<span style="color: #339933;">++</span>
+    window.<span style="color: #660066;">localStorage</span>.<span style="color: #660066;">setItem</span><span style="color: #009900;">&#40;</span><span style="color: #3366CC;">&quot;count&quot;</span><span style="color: #339933;">,</span>count<span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span>
+  <span style="color: #009900;">&#125;</span>
+<span style="color: #009900;">&#125;</span>
+<span style="color: #003366; font-weight: bold;">function</span> handleOnStorage<span style="color: #009900;">&#40;</span><span style="color: #009900;">&#41;</span> <span style="color: #009900;">&#123;</span>
+  myFunctionToSendDataToServer<span style="color: #009900;">&#40;</span>event.<span style="color: #660066;">key</span><span style="color: #339933;">,</span>
+    event.<span style="color: #660066;">newValue</span><span style="color: #339933;">,</span> event.<span style="color: #660066;">oldValue</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span>
+<span style="color: #009900;">&#125;</span>
+window.<span style="color: #000066;">onload</span> <span style="color: #339933;">=</span> <span style="color: #003366; font-weight: bold;">function</span><span style="color: #009900;">&#40;</span><span style="color: #009900;">&#41;</span> <span style="color: #009900;">&#123;</span>
+  document.<span style="color: #660066;">body</span>.<span style="color: #660066;">setAttribute</span><span style="color: #009900;">&#40;</span><span style="color: #3366CC;">&quot;onstorage&quot;</span><span style="color: #339933;">,</span> <span style="color: #3366CC;">&quot;handleOnStorage();&quot;</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span>
+  store<span style="color: #009900;">&#40;</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span>
+<span style="color: #009900;">&#125;</span></pre></td></tr></table></div>
+
+<p>Take a look at it in action <a href="http://test.bemoko.com/test/i/suite/javascript-offline/test/onstorage">here</a> in the bemoko mobile test suite.   It works on iPhone 3 and Safari 4.  You can even see the complete code <a href="http://test.bemoko.com/test/i/suite/javascript-offline/test/onstorage/source/true">here</a>.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://blog.bemoko.com/2009/09/16/cool-iphone-handles-the-html5-onstorage-event-handler/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+    </item>
+    <item>
+
+    <title>Squeezing PC web into mobile is like listening to the TV on radio</title>
+    <link>http://blog.bemoko.com/2009/09/16/squeezing-pc-web-into-mobile-is-like-listening-to-the-tv-on-radio/</link>
+    <comments>http://blog.bemoko.com/2009/09/16/squeezing-pc-web-into-mobile-is-like-listening-to-the-tv-on-radio/#comments</comments>
+    <pubDate>Wed, 16 Sep 2009 14:45:26 +0000</pubDate>
+    <dc:creator>Ian Homer</dc:creator>
+        <category><![CDATA[mobile]]></category>
+
+    <category><![CDATA[context]]></category>
+    <category><![CDATA[experience]]></category>
+    <category><![CDATA[mobile web]]></category>
+    <category><![CDATA[PC web]]></category>
+    <category><![CDATA[radio]]></category>
+    <category><![CDATA[TV]]></category>
+    <category><![CDATA[web]]></category>
+
+    <guid isPermaLink="false">http://blog.bemoko.com/?p=621</guid>
+
+    <description><![CDATA[Imagine if radio came along after television.
+&#8230; would the first radio shows simply have been recordings off the TV?  
+Before the days of video recorders I used to sit and record the television with the new shiny mic onto cheap D90s I&#8217;d bought from the market.  The novelty soon wore off and none [...]]]></description>
+      <content:encoded><![CDATA[<p>Imagine if radio came along after television.</p>
+<p>&#8230; would the first radio shows simply have been recordings off the TV?  </p>
+<p>Before the days of video recorders I used to sit and record the television with the new shiny mic onto cheap D90s I&#8217;d bought from the market.  The novelty soon wore off and none of my friends seemed that interested in my recordings.</p>
+<p>We&#8217;ve grown accustomed to see TV and radio as two very different media channels.  In particular we don&#8217;t consider the radio as a lesser medium even though from a simple point of view it&#8217;s just a constrained TV.   I love the radio &#8211; in fact I spend more time listening to the radio than I do watching the TV.   Why?  Not because I think there&#8217;s better content on the radio, and not because I think it&#8217;s physically better than the TV &#8211; more because it fits comfortably into my way of life and my context.</p>
+<p>I work quite a bit &#8211; and I learnt pretty early on that I can&#8217;t work whilst watching the TV.  Took me a while to realise that and I still experiment with it, but basically if I&#8217;m front of a TV I don&#8217;t get any work done.  However the radio fits my mood &#8211; I can put on some back ground music, or even talk programs, to give me inspiration.  It doesn&#8217;t tear my attention away and in some respects can enhance my work environment.</p>
+<p><img src="http://blog.bemoko.com/wp-content/uploads/2009/09/radio.jpg" alt="radio Squeezing PC web into mobile is like listening to the TV on radio" title="radio" width="200" height="143" class="alignnone size-full wp-image-643" style="float:left;margin:0px 10px 10px 0px" /> I do quite a bit of DIY, housework &#8211; my old paint splattered radio follows me around.  I&#8217;m often amazed at how long a couple of AA batteries power the damn thing, even though I leave it on too much.   It falls off tables, sit&#8217;s in damp rooms &#8230; it&#8217;s so simple and portable and it goes on broadcasting for me.<br />
+<br/><br/></p>
+<p>I can safely say I&#8217;ve never tried to watch a TV and drive.  Don&#8217;t think I&#8217;ll ever give that a go, but I obviously do listen to the radio in the car.  When good programs are on I don&#8217;t even mind sitting in traffic as it gives me a little time to think and relax &#8230; as long as it&#8217;s not too much traffic.</p>
+<p>Radio production has learnt from the strengths of the audio only medium.  You can in fact do things you can&#8217;t do on a TV, perhaps because of the limited budgets but perhaps because you can create an experience not possible when you&#8217;re distracted by the images.  It reminds me of the classic line in Educating Rita when, in response to &#8220;Suggest how you would resolve the staging difficulties inherent in a production of Ibsen&#8217;s Peer Gynt&#8221; , &#8230; she simply replied &#8230; &#8220;Do it on the radio. &#8221;</p>
+<p>So where does this sit with mobile &#8230;</p>
+<p>As we start to explore the opportunities with mobile, we&#8217;ll start to exploit the true value in an always on,  context aware, portable communication channel.  We&#8217;re starting to see it already.  <a href="http://www.rummble.com/">Rummble</a> provide an excellent location based personalised recommendation service.  facebook is being accessed regularly from mobile devices by over <a href="http://blog.facebook.com/blog.php?post=129875017130">a quarter of it&#8217;s users</a> to keep in touch with their community.  </p>
+<p>I see the next few years as pretty exciting, as we grab this mobile medium and let it power people&#8217;s lives.  It&#8217;s why I&#8217;m spending a good bit of time at <a href="http://www.bemoko.com">bemoko</a> refining the way that we take everything we&#8217;ve learnt and created in the web world to power the mobile enabled web; taking the unique benefits of mobile to create experiences we only dreamed of before. </p>
+]]></content:encoded>
+      <wfw:commentRss>http://blog.bemoko.com/2009/09/16/squeezing-pc-web-into-mobile-is-like-listening-to-the-tv-on-radio/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+    </item>
+    <item>
+    <title>Android arrives on PAYG with T-Mobile Pulse</title>
+
+    <link>http://blog.bemoko.com/2009/09/03/android-arrives-on-payg-with-t-mobile-pulse/</link>
+    <comments>http://blog.bemoko.com/2009/09/03/android-arrives-on-payg-with-t-mobile-pulse/#comments</comments>
+    <pubDate>Thu, 03 Sep 2009 17:00:36 +0000</pubDate>
+    <dc:creator>Ian Walsh</dc:creator>
+        <category><![CDATA[mobile]]></category>
+    <category><![CDATA[android]]></category>
+    <category><![CDATA[Huawei U8220]]></category>
+
+    <category><![CDATA[PAYG]]></category>
+    <category><![CDATA[t-mobile]]></category>
+
+    <guid isPermaLink="false">http://blog.bemoko.com/?p=591</guid>
+    <description><![CDATA[Today marks an Android first: the launch of the T-Mobile Pulse &#8211; the first PAYG Android device on the market.
+Priced at under £180 this could be exactly what&#8217;s needed for Android to move beyond the luxury smartphone market into more mainstream adoption. Infact, this price puts it cheaper than the popular Nokia 5800 XpressMusic on [...]]]></description>
+      <content:encoded><![CDATA[<p>Today marks an Android first: the <a href="http://uk.techcrunch.com/2009/09/03/t-mobile-introduces-first-pay-as-you-go-smartphone-dubbed-pulse/">launch</a> of the T-Mobile Pulse &#8211; the first PAYG Android device on the market.</p>
+<p>Priced at under £180 this could be exactly what&#8217;s needed for Android to move beyond the luxury smartphone market into more mainstream adoption. Infact, this price puts it cheaper than the <a href="http://bango.com/support/top20handsets.aspx">popular</a> Nokia 5800 XpressMusic on T-Mobile&#8217;s current pay-as-you-go <a href="http://www.t-mobile.co.uk/shop/mobile-phones/phones/pay-as-you-go/all/4/price/">price list</a>.</p>
+<p style="text-align: center;">
+<div id="attachment_597" class="wp-caption aligncenter" style="width: 262px"><a rel="attachment wp-att-597" href="http://blog.bemoko.com/2009/09/03/android-arrives-on-payg-with-t-mobile-pulse/t-pulse/"><img class="size-full wp-image-597 " title="T-Mobile Pulse" src="http://blog.bemoko.com/wp-content/uploads/2009/09/t-pulse.jpg" alt="T-Mobile Pulse" width="252" height="336" /></a><p class="wp-caption-text">T-Mobile Pulse (image from techcrunch.com)</p></div>
+<p>Using the same processor as the HTC Hero (a Qualcomm MSM7200A for those that like detail) it&#8217;s not obvious that many corners have been cut; although the case design isn&#8217;t up there with the Hero, and certainly reminds me a little of an old HTC Touch Winmo handset.</p>
+<p>Screenwise, the resolution is standard Android at 320&#215;480, although physically its reported to be a little larger that the Hero at 3.5&#8243;, making it about the same as the iPhone. See <a href="http://ignorethecode.net/blog/2009/08/07/virtual-keyboards-on-iphone-and-android/?utm_source=Subscriptions+from+Little+Springs+Design&amp;utm_campaign=9036dce4f7-Monthly_Newsletter9_2009&amp;utm_medium=email">here</a> on why having a physically larger screen could be a good thing for Android usability.</p>
+<p>This is great news for mobile consumers, and great news for us at bemoko &#8211; we&#8217;re huge fans of  internet-centric devices with capable browsers. And the more people that use devices like this, the more opportunities this gives us as <a href="http://www.bemoko.com/bemoko/i/category/category-what-we-do">mobile web designers</a>.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://blog.bemoko.com/2009/09/03/android-arrives-on-payg-with-t-mobile-pulse/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+
+    </item>
+    <item>
+    <title>App store dictators, mobile services &amp; who controls the pipe?</title>
+    <link>http://blog.bemoko.com/2009/08/01/app-store-dictators-mobile-services-who-controls-the-pipe/</link>
+    <comments>http://blog.bemoko.com/2009/08/01/app-store-dictators-mobile-services-who-controls-the-pipe/#comments</comments>
+    <pubDate>Sat, 01 Aug 2009 16:31:09 +0000</pubDate>
+
+    <dc:creator>Ian Homer</dc:creator>
+        <category><![CDATA[mobile]]></category>
+    <category><![CDATA[android]]></category>
+    <category><![CDATA[app store]]></category>
+    <category><![CDATA[apple]]></category>
+    <category><![CDATA[AT&T]]></category>
+    <category><![CDATA[FCC]]></category>
+    <category><![CDATA[Google Voice]]></category>
+
+    <category><![CDATA[Spotify]]></category>
+
+    <guid isPermaLink="false">http://blog.bemoko.com/?p=571</guid>
+    <description><![CDATA[This is the week that we saw Google Voice pulled from Apple&#8217;s app store concerning the industry sufficiently for the FCC to investigate.
+Google Voice scares AT&#038;T (and probably other operators) as it provides an alternative way for users to make calls as well as making it easy for user to switch between operators whilst keeping [...]]]></description>
+      <content:encoded><![CDATA[<p>This is the week that we saw <a href="http://www.techcrunch.com/2009/07/27/apple-is-growing-rotten-to-the-core-and-its-likely-atts-fault/">Google Voice pulled from Apple&#8217;s app store</a> concerning the industry sufficiently for the <a href="http://www.engadget.com/2009/07/31/fcc-now-inquiring-about-atandts-involvement-in-google-voices-iph/">FCC to investigate</a>.</p>
+<p><a href="http://www.google.com/googlevoice/about.html">Google Voice</a> scares AT&#038;T (and probably other operators) as it provides an alternative way for users to make calls as well as making it easy for user to switch between operators whilst keeping the same number (think roaming &#8211; pop in a local PAYG SIM).</p>
+<p>I look back at <a href="http://twitter.com/ianhomer">my twitter stream</a> from the week and I see a pattern of activity.   We wait with baited breath to see <a href="http://business.timesonline.co.uk/tol/business/columnists/article6729795.ece">if Apple will approve Spotify</a> &#8211; an alternative to getting music from iTunes.  We also see a pattern of rejections from Apple for <a href="http://www.readwriteweb.com/archives/why_is_apple_rejecting_phonegap-built_iphone_apps.php">PhoneGap apps</a>.  <a href="http://phonegap.com/">PhoneGap</a> is an innovative service that makes it easy for web developers &#8211; with HTML, Javascript skills &#8211; to create iPhone apps &#8230; and Android apps &#8230; and Blackberry apps &#8230; and soon support for <a href="http://androidandme.com/2009/04/news/interviews/interview-with-phonegap-developer-brian-leroux/">Palm WebOS, Nokia Symbian and Windows Mobile</a> apps.</p>
+<p>What is made clearly apparent is that an app store owner has control over what they choose to let there users install.  Control is good &#8211; we don&#8217;t want apps to introduce vulnerability and stability risks to our phones and we probably want to avoid some of the shady sides of the industry &#8211; but who is to decide where to draw this line?  When phone owners only have one place that they can go to get apps we are subject to problems of monopolisation control.</p>
+<p>Apple cannot maintain strict control of application delivery to iPhones without seeing a backlash of people looking at alternative platforms with their <a href="http://www.pcmag.com/article2/0,2817,2350905,00.asp">alternative app stores</a>.  Apple have the user experience advantage at the moment &#8211; no where else is it so easy for user to get their hands on a rich set of applications &#8211; but as alternatives rise which have decent user experience and provide killer functionality missing from the iPhones, iPhone lovers <a href="http://moconews.net/article/419-honeymoon-ends-for-iphone-as-realities-set-in/">may start to look elsewhere</a>.</p>
+<p>Michael Arrington (Techcrunch) <a href="http://www.techcrunch.com/2009/07/31/i-quit-the-iphone/">quits the iPhone</a> and Steven Frank (Co-founder, Panic) is <a href="http://stevenf.tumblr.com/post/152606616/important-note-references-to-i-in-this-post">&#8220;Not buying any future iPhone OS based devices&#8221;</a> until the situation improves.</p>
+<p>Apple, the iPhone and their app store have lifted the mobile industry in the past couple of years.  I pray that Apple relax a few of their constraints, as I want Nokia, Palm and the Google Clan to have beat Apple by improving their user experience &#8211; not because Apple gives away the customers.</p>
+<p><b>Update:</b></p>
+<ul>
+<li><a href="http://www.riverturn.com/blog/?p=455">Frustrating transcript</a> of a call between Riverturn (provider of Voice Central one of the apps that Apple pulled) and apple highlighting some the challenges that app developers face</li>
+<li><a href="http://www.maclife.com/article/feature/how_google_voice_debacle_hurting_thirdparty_developers">Who refunds all those people</a> who can&#8217;t now get support for the app they&#8217;ve downloaded and previously paid for</li>
+</ul>
+]]></content:encoded>
+      <wfw:commentRss>http://blog.bemoko.com/2009/08/01/app-store-dictators-mobile-services-who-controls-the-pipe/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+    </item>
+
+  </channel>
+</rss>

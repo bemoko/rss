@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    RSS2 plugin test site configuration file
+ -->
+<site>
+  <content-sources>
+    <source name="rss" plugin="rss.Rss2" scope="site">
+      <param name="url">http://blog.bemoko.com/wp-rss2.php</param>
+    </source>
+  </content-sources>
+
+  <intents>
+    <intent name="i" type="template" view="test.html"/>
+  </intents>  
+</site>

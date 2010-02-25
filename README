@@ -1,0 +1,9 @@
+Introduction
+------------
+
+This plugin makes content from a RSS2 feed available in your site
+
+Installation
+-------------------------------------------------------------------------------
+
+* Drop rss/Rss2.groovy in the plugins folder of your site

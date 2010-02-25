@@ -22,38 +22,38 @@ package rss.domain
 import java.text.SimpleDateFormat
 
 class Rss2Feed{
-    private def DATE_FORMAT = new SimpleDateFormat("EEE, dd MMM yyyy HH:mm:ss z")
+  private def DATE_FORMAT = new SimpleDateFormat("EEE, dd MMM yyyy HH:mm:ss z")
     
-	List items=[]
-	
-	//mandatory elements
-	String title
-	String link
-	String description
-	
-	//optional elements
-	String language
-	String copyright
-	String managingEditor
-	String webMaster
-	String pubDate
-	String lastBuildDate
-	
-	Date getPubDate() { 
-       DATE_FORMAT.parse(pubDate)
-    }
-    Date getLastBuildDate() { 
-       DATE_FORMAT.parse(lastBuildDate)
-    }
-	
-	List categories =[]
-	String generator
-	String docs
-	def cloud=[:] //map of domain, port, path, registerProcedure,protocol
-	def ttl
-	def image=[:] //map of url, title,link,width,height,description
-	String rating
-	def textInput =[:] //map of title, description, name,link
-	List skipHours
-	List skipDays
+  List items=[]
+  
+  //mandatory elements
+  String title
+  String link
+  String description
+  
+  //optional elements
+  String language
+  String copyright
+  String managingEditor
+  String webMaster
+  String pubDate
+  String lastBuildDate
+  
+  Date getPubDate() { 
+    DATE_FORMAT.parse(pubDate)
+  }
+  Date getLastBuildDate() { 
+    DATE_FORMAT.parse(lastBuildDate)
+  }
+  
+  List categories =[]
+  String generator
+  String docs
+  def cloud=[:] //map of domain, port, path, registerProcedure,protocol
+  def ttl
+  def image=[:] //map of url, title,link,width,height,description
+  String rating
+  def textInput =[:] //map of title, description, name,link
+  List skipHours
+  List skipDays
 }
